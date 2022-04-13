@@ -4,7 +4,7 @@ A tool to send KOII payments to multiple users at once. <p>
   # requirements
   Requires Koii SDK and the Arweave JSON file of the wallet you want to send KOII from <p>
     
-  #Usage
+  # Usage
     Install the [Koii SDK](https://github.com/koii-network/tools) to your project folder<br>
     Add list of target wallets and payments to test.csv file<br>
     Add your arweaveWallet.json to the folder<br>
